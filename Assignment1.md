@@ -7,7 +7,7 @@ Anticipating who will vote in an election is critically important to a variety o
 -	Year of birth
 -	Year of registration 
 -	Party ID
--	Full address 
+-	Full address  
 -	Voting history in primary and general elections going back to 2004
 -	An indicator for whether the voter pulled a Republican or Democratic ballot in primary elections (independents can choose to vote in either party’s primary).
 
