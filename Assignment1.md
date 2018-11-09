@@ -5,7 +5,7 @@
 Anticipating who will vote in an election is critically important to a variety of stakeholders including politicians, advocacy groups, and polling agencies.  Despite its importance, predicting voter turnout is often difficult and prone to error.  For this project, I propose using the *Arizona Voter Registration Database* (AVRD), in combination with readily-available historical data and data from the American Community Survey, to predict future voter turnout.  The AVRD contains the following information for all registered voters: 
 
 -	Year of birth
--	Year of registration
+-	Year of registration 
 -	Party ID
 -	Full address 
 -	Voting history in primary and general elections going back to 2004
